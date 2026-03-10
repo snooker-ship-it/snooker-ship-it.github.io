@@ -1,10 +1,11 @@
 # Kevin Crush
 
-# Kevinpicture.png
+<img width="618" height="790" alt="Kevinpicture" src="https://github.com/user-attachments/assets/a3ccf699-a1f7-4e95-a517-690474cefddf" />
 
 ### US Navy Supply Officer
 
 **Interested In:** Data Analysis, Data Visualization, Supply Chain Management, Inventory Management
+![Uploading Kevinpicture.png…]()
 
 **Skills:** In Progress 
 
