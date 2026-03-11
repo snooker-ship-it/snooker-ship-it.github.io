@@ -26,4 +26,4 @@ United States Navy
 
 ### A Simple Python File Sorter for Your Amusement
 
-https://github.com/snooker-ship-it/python-file-sorter
+(https://gitlab.nps.edu/james.crowley/oa3801-final-project-ohio)
