@@ -26,6 +26,6 @@ United States Navy
 
 ## Projects
 
-### OHIO Class Submarine Lifecycle Management Analysis (Pending, see below for sausage)
+### A Simple Python File Sorter for Your Amusement
 
-https://gitlab.nps.edu/james.crowley/oa3801-final-project-ohio/-/tree/main
+https://github.com/snooker-ship-it/python-file-sorter
