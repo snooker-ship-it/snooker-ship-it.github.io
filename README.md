@@ -26,4 +26,6 @@ United States Navy
 
 ## Projects
 
-### OHIO Class Submarine Lifecycle Management Analysis (Pending)
+### OHIO Class Submarine Lifecycle Management Analysis (Pending, see below for sausage)
+
+https://gitlab.nps.edu/james.crowley/oa3801-final-project-ohio/-/tree/main
