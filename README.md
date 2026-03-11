@@ -24,6 +24,6 @@ United States Navy
 
 ## Projects
 
-### A Simple Python File Sorter for Your Amusement
+### OHIO CLASS SUBMARINE PROGRAM ANALYSIS
 
 (https://gitlab.nps.edu/james.crowley/oa3801-final-project-ohio)
