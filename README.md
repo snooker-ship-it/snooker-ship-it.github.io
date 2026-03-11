@@ -5,7 +5,6 @@
 ### US Navy Supply Officer
 
 **Interested In:** Data Analysis, Data Visualization, Supply Chain Management, Inventory Management
-![Uploading Kevinpicture.png…]()
 
 **Skills:** In Progress 
 
